@@ -48,6 +48,7 @@ We would convert any array-like object into an actual array so that we could inh
 
 A component is a block of code that can be duplicated/repeated. Essentially it's a way of structuring code so that developers avoid repeating themselves.
 
+
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
